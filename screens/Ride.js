@@ -69,7 +69,7 @@ export default class RideScreen extends Component {
   };
 
   returnBike = () => {
-    console.log(""Esperamos que hayas disfrutado tu viaje");
+    console.log("Esperamos que hayas disfrutado tu viaje");
   };
 
   render() {
